@@ -1,0 +1,10 @@
+sys
+numpy
+pandas
+typing
+osgeo
+skimage
+keras = 2.8.0
+zipfile
+matplotlib
+tensorflow == 2.8.0
