@@ -4,7 +4,7 @@ The research aims to map the slums in dense urban environments using FCN-DK deep
 
 We have selected Jakarta as our study area because around 60% of the Jakarta population lives in informal settlements called Kampungs.
 
-# The repository includes:
+## The repository includes:
 VGG16-Place365 implementation includes:
 1. Loading Dataset SVI and Labels
 2. Visualization of Dataset and Labels
@@ -28,7 +28,7 @@ Modified FCNDK implementation includes:
 8. Generating accuracy metrix
 9. Calculating accuracy assessment through Overall Accuracy, Precision, Recall, and F1 Score
 
-# Data Set
+## Data Set
 For this Msc. research work data was aquired as follows:
 1. WorldView 3 satellite imagery of 0.41 m spatial resolution was aquired through ESA Grand wich was granted by writting proposal to ESA.
 2. Street view imagery was aquired using Google Street View Static API service
