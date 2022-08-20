@@ -24,12 +24,17 @@ Modified FCNDK implementation includes:
 4. Building Modified FCNDK Network for taking three inputs, i.e., RSI, SVI, and Labels
 5. Defining the Number of classes and Training Configuration
 6. Training Model
-7. Evaluation of the trained model by testing on testing data set
+7. Evaluation of the trained model by testing on the testing data set
 8. Generating accuracy metrix
 9. Calculating accuracy assessment through Overall Accuracy, Precision, Recall, and F1 Score
 
 ## Data Set
-For this Msc. research work data was aquired as follows:
-1. WorldView 3 satellite imagery of 0.41 m spatial resolution was aquired through ESA Grand wich was granted by writting proposal to ESA.
-2. Street view imagery was aquired using Google Street View Static API service
-3. Reference data was aquired by Jakarta's local government official website
+For this Msc. research work the data was acquired as follows:
+1. WorldView 3 satellite imagery of 0.41 m spatial resolution was acquired through ESA Grand, which was granted by writing a proposal to ESA.
+2. SVI was acquired using the Google Street View Static API service
+3. Reference data was acquired by Jakarta's local government's official website
+
+## Credit
+The FCNDK code was taken from https://github.com/resingm/field-boundary-delineation repository
+The VGG16-Places365 code was taken from 'https://github.com/Abbas47/VGG16-In-Keras' repository
+Further, the code files were modified according to our research requirements.
