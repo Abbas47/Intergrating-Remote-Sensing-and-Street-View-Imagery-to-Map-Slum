@@ -1,4 +1,4 @@
-# Integrating-Remote-Sensing-and-Street-View-Imagery-to-Map-Slum
+## Integrating-Remote-Sensing-and-Street-View-Imagery-to-Map-Slum
 This repository is dedicated to my MSc. thesis, in which I have integrated Remote Sensing Imagery (RSI) and Street View Imagery (SVI) to map slums using a deep learning approach.
 The research aims to map the slums in dense urban environments using FCN-DK deep learning architecture. In this research, we have integrated overhead information with ground-level information to understand the urban context of the study area (Jakarta), i.e., integrate the RSI and SVI.
 
