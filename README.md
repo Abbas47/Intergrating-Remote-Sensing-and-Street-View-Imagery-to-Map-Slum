@@ -21,7 +21,7 @@ Modified FCNDK implementation includes:
 1. Loading Dataset (RSI and SVI) and Labels
 2. Visualization of Dataset and Labels
 3. Generating patches for training the model
-4. Building FCNDK Network for taking three inputs, i.e., RSI, SVI, and Labels
+4. Building Modified FCNDK Network for taking three inputs, i.e., RSI, SVI, and Labels
 5. Defining the Number of classes and Training Configuration
 6. Training Model
 7. Evaluation of the trained model by testing on testing data set
