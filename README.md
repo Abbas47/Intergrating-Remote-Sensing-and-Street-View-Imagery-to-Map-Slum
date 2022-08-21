@@ -31,7 +31,7 @@ Modified FCNDK implementation includes:
 
 ## Data Set
 For this Msc. research work the data was acquired as follows:
-1. WorldView 3 satellite imagery of 0.41 m spatial resolution was acquired through ESA Grand, which was granted by writing a proposal to ESA.
+1. WorldView 3 satellite imagery of 0.41 m spatial resolution was acquired through ESA, which was granted by writing a proposal to ESA.
 2. SVI was acquired using the Google Street View Static API service
 3. Reference data was acquired by Jakarta's local government's official website
 
