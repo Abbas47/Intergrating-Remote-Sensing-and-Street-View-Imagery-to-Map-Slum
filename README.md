@@ -25,7 +25,7 @@ Modified FCNDK implementation includes:
 5. Defining the Number of classes and Training Configuration
 6. Training Model
 7. Evaluation of the trained model by testing on the testing data set
-8. Generating accuracy metrix
+8. Generating accuracy matrix
 9. Calculating accuracy assessment through Overall Accuracy, Precision, Recall, and F1 Score
 
 ## Data Set
