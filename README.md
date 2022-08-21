@@ -11,7 +11,7 @@ VGG16-Place365 implementation includes:
 3. Setting the pre-trained VGG16-Places365
 4. Retraining the model using SVI 
 5. Evaluation of trained model on the testing data set
-7. Generating accuracy metrix
+7. Generating accuracy matrix
 8. Calculating accuracy assessment through Overall Accuracy, Precision, Recall, and F1 Score
 
 Feature extraction from SVI
