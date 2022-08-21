@@ -14,8 +14,7 @@ VGG16-Place365 implementation includes:
 7. Generating accuracy matrix
 8. Calculating accuracy assessment through Overall Accuracy, Precision, Recall, and F1 Score
 
-Feature extraction from SVI
-
+Feature extraction from SVI:
 The 128 features were extracted from each SVI using retrained VGG16-places365 model just before the classification layer. Then 128 features were reduced to 32 features using Principal Component Analysis. Note: Then, using the spatial interpolation technique, 32 feature maps were generated using ArcGIS, all 32 layers were stacked, and one 32 band imagery was generated.
 
 Modified FCNDK implementation includes:
