@@ -37,5 +37,7 @@ For this Msc. research work the data was acquired as follows:
 
 ## Credit
 The FCNDK code was taken from https://github.com/resingm/field-boundary-delineation repository
+
 The VGG16-Places365 code was taken from 'https://github.com/Abbas47/VGG16-In-Keras' repository
+
 Further, the code files were modified according to our research requirements.
